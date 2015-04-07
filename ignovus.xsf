@@ -2187,9 +2187,9 @@
         </border>
       </table-row-style>
     </logicalStyles>
-    <xmlFileRef>/home/alvaro/Documents/empresa/ignovus/ignovus.dell/ignovus.xml</xmlFileRef>
-    <xslFileRef>/home/acastrom/Documents/empresa/ignovus/ignovus.xsl</xslFileRef>
-    <outputFileRef>/home/acastrom/Documents/empresa/ignovus/ignovus.pdf</outputFileRef>
+    <xmlFileRef>/home/alvaro/Documents/empresa/ignovus/facturacion/ignovus.xml</xmlFileRef>
+    <xslFileRef>/home/alvaro/Documents/empresa/ignovus/facturacion/ignovus.xsl</xslFileRef>
+    <outputFileRef>/home/alvaro/Documents/empresa/ignovus/facturacion/ignovus.pdf</outputFileRef>
     <version>1</version>
     <externalTemplateFiles/>
     <internalImports/>
