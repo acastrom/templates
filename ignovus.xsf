@@ -2407,7 +2407,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>155.0</y>
+                <y>166.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -2621,7 +2621,7 @@
             <frame>
               <position>
                 <x>469.47047</x>
-                <y>155.0</y>
+                <y>166.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -2720,7 +2720,7 @@
             <children>
               <text>
                 <xslCode>false</xslCode>
-                <text>{header/custromer/name}</text>
+                <text>{header/customer/name}</text>
                 <textColor>
                   <red>0</red>
                   <green>0</green>
@@ -2835,11 +2835,11 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>187.0</y>
+                <y>198.0</y>
               </position>
               <size>
                 <height>17.0</height>
-                <width>113.81102</width>
+                <width>113.0</width>
               </size>
               <numberOfColumns>1</numberOfColumns>
               <gutterWidth>3.0</gutterWidth>
@@ -2934,7 +2934,7 @@
             <children>
               <text>
                 <xslCode>false</xslCode>
-                <text>{header/custromer/address/street_nr}</text>
+                <text>{header/customer/address/street_nr}</text>
                 <textColor>
                   <red>0</red>
                   <green>0</green>
@@ -3049,7 +3049,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>217.0</y>
+                <y>228.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3148,7 +3148,7 @@
             <children>
               <text>
                 <xslCode>false</xslCode>
-                <text>{header/custromer/address/city}</text>
+                <text>{header/customer/address/city}</text>
                 <textColor>
                   <red>0</red>
                   <green>0</green>
@@ -3263,7 +3263,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>234.0</y>
+                <y>245.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3477,7 +3477,7 @@
             <frame>
               <position>
                 <x>477.0</x>
-                <y>276.0</y>
+                <y>287.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3563,212 +3563,6 @@
             </fo>
             <readOnly>false</readOnly>
           </text-flow>
-          <line>
-            <lineWidth>1.42263</lineWidth>
-            <x1>228.0</x1>
-            <y1>284.0</y1>
-            <x2>349.0</x2>
-            <y2>284.0</y2>
-            <color>
-              <red>0</red>
-              <green>0</green>
-              <blue>0</blue>
-              <alpha>255</alpha>
-            </color>
-            <children/>
-            <id>Line_1</id>
-            <frame>
-              <position>
-                <x>228.0</x>
-                <y>284.0</y>
-              </position>
-              <size>
-                <height>0.0</height>
-                <width>121.0</width>
-              </size>
-              <numberOfColumns>1</numberOfColumns>
-              <gutterWidth>3.0</gutterWidth>
-              <span>none</span>
-              <leftPadding>0.0</leftPadding>
-              <rightPadding>0.0</rightPadding>
-              <topPadding>0.0</topPadding>
-              <bottomPadding>0.0</bottomPadding>
-              <hAlign>left</hAlign>
-              <vAlign>top</vAlign>
-              <absolute>true</absolute>
-              <border>
-                <topBorderWidth>1.0</topBorderWidth>
-                <leftBorderWidth>1.0</leftBorderWidth>
-                <rightBorderWidth>1.0</rightBorderWidth>
-                <bottomBorderWidth>1.0</bottomBorderWidth>
-                <topBorderStyle>solid</topBorderStyle>
-                <leftBorderStyle>solid</leftBorderStyle>
-                <rightBorderStyle>solid</rightBorderStyle>
-                <bottomBorderStyle>solid</bottomBorderStyle>
-                <topBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </topBorderColor>
-                <leftBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </leftBorderColor>
-                <rightBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </rightBorderColor>
-                <bottomBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </bottomBorderColor>
-                <hasLeftBorder>false</hasLeftBorder>
-                <hasRightBorder>false</hasRightBorder>
-                <hasTopBorder>false</hasTopBorder>
-                <hasBottomBorder>false</hasBottomBorder>
-              </border>
-              <zAxis>10</zAxis>
-              <referenceOrientation>0</referenceOrientation>
-            </frame>
-            <fo>
-              <generateFoContainer>true</generateFoContainer>
-              <generateFoBlock>true</generateFoBlock>
-              <evaluatedExpression>Empty</evaluatedExpression>
-              <useApply>false</useApply>
-              <normalizeSpace>false</normalizeSpace>
-              <disableOutputEscaping>false</disableOutputEscaping>
-              <xslIf></xslIf>
-              <xslForeach></xslForeach>
-              <xslForeachSort></xslForeachSort>
-              <xslForeachSortAscending>true</xslForeachSortAscending>
-              <xslForeachSortText>true</xslForeachSortText>
-              <whiteSpaceCollapse>false</whiteSpaceCollapse>
-              <suppressRedundantInformation>false</suppressRedundantInformation>
-              <generateTemplate>false</generateTemplate>
-              <templateName>Template</templateName>
-              <tableGenerator></tableGenerator>
-              <templateParamsList/>
-              <customBlockAttributes/>
-              <customContainerAttributes/>
-              <pageBreakBefore>auto</pageBreakBefore>
-              <pageBreakInside>auto</pageBreakInside>
-              <pageBreakAfter>auto</pageBreakAfter>
-              <spaceBefore>0</spaceBefore>
-              <spaceAfter>0</spaceAfter>
-              <useSmartVAlign>false</useSmartVAlign>
-            </fo>
-            <readOnly>false</readOnly>
-          </line>
-          <line>
-            <lineWidth>1.42263</lineWidth>
-            <x1>370.0</x1>
-            <y1>284.0</y1>
-            <x2>395.0</x2>
-            <y2>284.0</y2>
-            <color>
-              <red>0</red>
-              <green>0</green>
-              <blue>0</blue>
-              <alpha>255</alpha>
-            </color>
-            <children/>
-            <id>Line_2</id>
-            <frame>
-              <position>
-                <x>370.0</x>
-                <y>284.0</y>
-              </position>
-              <size>
-                <height>0.0</height>
-                <width>25.0</width>
-              </size>
-              <numberOfColumns>1</numberOfColumns>
-              <gutterWidth>3.0</gutterWidth>
-              <span>none</span>
-              <leftPadding>0.0</leftPadding>
-              <rightPadding>0.0</rightPadding>
-              <topPadding>0.0</topPadding>
-              <bottomPadding>0.0</bottomPadding>
-              <hAlign>left</hAlign>
-              <vAlign>top</vAlign>
-              <absolute>true</absolute>
-              <border>
-                <topBorderWidth>1.0</topBorderWidth>
-                <leftBorderWidth>1.0</leftBorderWidth>
-                <rightBorderWidth>1.0</rightBorderWidth>
-                <bottomBorderWidth>1.0</bottomBorderWidth>
-                <topBorderStyle>solid</topBorderStyle>
-                <leftBorderStyle>solid</leftBorderStyle>
-                <rightBorderStyle>solid</rightBorderStyle>
-                <bottomBorderStyle>solid</bottomBorderStyle>
-                <topBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </topBorderColor>
-                <leftBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </leftBorderColor>
-                <rightBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </rightBorderColor>
-                <bottomBorderColor>
-                  <red>0</red>
-                  <green>0</green>
-                  <blue>0</blue>
-                  <alpha>255</alpha>
-                </bottomBorderColor>
-                <hasLeftBorder>false</hasLeftBorder>
-                <hasRightBorder>false</hasRightBorder>
-                <hasTopBorder>false</hasTopBorder>
-                <hasBottomBorder>false</hasBottomBorder>
-              </border>
-              <zAxis>10</zAxis>
-              <referenceOrientation>0</referenceOrientation>
-            </frame>
-            <fo>
-              <generateFoContainer>true</generateFoContainer>
-              <generateFoBlock>true</generateFoBlock>
-              <evaluatedExpression>Empty</evaluatedExpression>
-              <useApply>false</useApply>
-              <normalizeSpace>false</normalizeSpace>
-              <disableOutputEscaping>false</disableOutputEscaping>
-              <xslIf></xslIf>
-              <xslForeach></xslForeach>
-              <xslForeachSort></xslForeachSort>
-              <xslForeachSortAscending>true</xslForeachSortAscending>
-              <xslForeachSortText>true</xslForeachSortText>
-              <whiteSpaceCollapse>false</whiteSpaceCollapse>
-              <suppressRedundantInformation>false</suppressRedundantInformation>
-              <generateTemplate>false</generateTemplate>
-              <templateName>Template</templateName>
-              <tableGenerator></tableGenerator>
-              <templateParamsList/>
-              <customBlockAttributes/>
-              <customContainerAttributes/>
-              <pageBreakBefore>auto</pageBreakBefore>
-              <pageBreakInside>auto</pageBreakInside>
-              <pageBreakAfter>auto</pageBreakAfter>
-              <spaceBefore>0</spaceBefore>
-              <spaceAfter>0</spaceAfter>
-              <useSmartVAlign>false</useSmartVAlign>
-            </fo>
-            <readOnly>false</readOnly>
-          </line>
           <text-flow>
             <bkgColor>
               <red>75</red>
@@ -3897,11 +3691,11 @@
             <frame>
               <position>
                 <x>45.80893</x>
-                <y>257.0</y>
+                <y>268.0</y>
               </position>
               <size>
                 <height>17.0</height>
-                <width>142.26377</width>
+                <width>142.0</width>
               </size>
               <numberOfColumns>1</numberOfColumns>
               <gutterWidth>3.0</gutterWidth>
@@ -4897,7 +4691,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>283.0</y>
+                <y>294.0</y>
               </position>
               <size>
                 <height>48.0</height>
@@ -5336,7 +5130,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>335.0</y>
+                <y>346.0</y>
               </position>
               <size>
                 <height>36.0</height>
@@ -6225,7 +6019,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>377.0</y>
+                <y>388.0</y>
               </position>
               <size>
                 <height>56.0</height>
@@ -6545,7 +6339,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>624.0</y>
+                            <y>635.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -6758,7 +6552,7 @@
                         <children>
                           <text>
                             <xslCode>false</xslCode>
-                            <text>{footer/neto}</text>
+                            <text>{body/item/amount}</text>
                             <textColor>
                               <red>0</red>
                               <green>0</green>
@@ -6873,7 +6667,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>624.0</y>
+                            <y>635.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -7074,7 +6868,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>624.0</y>
+                <y>635.0</y>
               </position>
               <size>
                 <height>23.0</height>
@@ -7394,7 +7188,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>655.0</y>
+                            <y>666.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -7722,7 +7516,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>655.0</y>
+                            <y>666.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -7923,7 +7717,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>655.0</y>
+                <y>666.0</y>
               </position>
               <size>
                 <height>21.0</height>
@@ -8243,7 +8037,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>683.0</y>
+                            <y>694.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -8571,7 +8365,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>683.0</y>
+                            <y>694.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -8772,7 +8566,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>683.0</y>
+                <y>694.0</y>
               </position>
               <size>
                 <height>23.0</height>
@@ -8873,7 +8667,7 @@
                   <blue>255</blue>
                   <alpha>255</alpha>
                 </fillColor>
-                <width>193.0</width>
+                <width>224.20743</width>
                 <booleanExpression>false</booleanExpression>
                 <nodesetExpression>false</nodesetExpression>
                 <booleanExpressionString></booleanExpressionString>
@@ -8886,7 +8680,7 @@
                   <blue>255</blue>
                   <alpha>255</alpha>
                 </fillColor>
-                <width>80.0</width>
+                <width>48.36968</width>
                 <booleanExpression>false</booleanExpression>
                 <nodesetExpression>false</nodesetExpression>
                 <booleanExpressionString></booleanExpressionString>
@@ -9104,8 +8898,8 @@
                         <id>TextFlow_13</id>
                         <frame>
                           <position>
-                            <x>505.0</x>
-                            <y>340.0</y>
+                            <x>504.0</x>
+                            <y>350.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -9195,7 +8989,7 @@
                     <ifClauses/>
                     <frame>
                       <position>
-                        <x>273.0</x>
+                        <x>272.0</x>
                         <y>0.0</y>
                       </position>
                       <size>
@@ -9432,12 +9226,12 @@
                         <id>TextFlow_14</id>
                         <frame>
                           <position>
-                            <x>425.0</x>
-                            <y>340.0</y>
+                            <x>456.0</x>
+                            <y>350.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
-                            <width>80.0</width>
+                            <width>48.0</width>
                           </size>
                           <numberOfColumns>1</numberOfColumns>
                           <gutterWidth>3.0</gutterWidth>
@@ -9523,12 +9317,12 @@
                     <ifClauses/>
                     <frame>
                       <position>
-                        <x>193.0</x>
+                        <x>224.0</x>
                         <y>0.0</y>
                       </position>
                       <size>
                         <height>17.0</height>
-                        <width>80.0</width>
+                        <width>48.0</width>
                       </size>
                       <numberOfColumns>1</numberOfColumns>
                       <gutterWidth>3.0</gutterWidth>
@@ -9761,11 +9555,11 @@
                         <frame>
                           <position>
                             <x>232.0</x>
-                            <y>340.0</y>
+                            <y>350.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
-                            <width>193.0</width>
+                            <width>224.0</width>
                           </size>
                           <numberOfColumns>1</numberOfColumns>
                           <gutterWidth>3.0</gutterWidth>
@@ -9856,7 +9650,7 @@
                       </position>
                       <size>
                         <height>17.0</height>
-                        <width>193.0</width>
+                        <width>224.0</width>
                       </size>
                       <numberOfColumns>1</numberOfColumns>
                       <gutterWidth>3.0</gutterWidth>
@@ -9987,7 +9781,7 @@
             <frame>
               <position>
                 <x>232.0</x>
-                <y>340.0</y>
+                <y>350.0</y>
               </position>
               <size>
                 <height>250.0</height>
@@ -10073,6 +9867,674 @@
             </fo>
             <readOnly>false</readOnly>
           </table>
+          <text-flow>
+            <bkgColor>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </bkgColor>
+            <expandToRight>false</expandToRight>
+            <truncateInRow>false</truncateInRow>
+            <lineHeight>14.399999999999999</lineHeight>
+            <children>
+              <text>
+                <xslCode>false</xslCode>
+                <text>{header/customer/rut}</text>
+                <textColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </textColor>
+                <bkgColor>
+                  <red>255</red>
+                  <green>255</green>
+                  <blue>255</blue>
+                  <alpha>255</alpha>
+                </bkgColor>
+                <font>Arial#1#12.0</font>
+                <underline>false</underline>
+                <hasVariableHeight>false</hasVariableHeight>
+                <constantText>false</constantText>
+                <expandToRight>false</expandToRight>
+                <escapeComparisonSigns>false</escapeComparisonSigns>
+                <lineHeightXSLCode>14.5</lineHeightXSLCode>
+                <children/>
+                <frame>
+                  <position>
+                    <x>0.0</x>
+                    <y>0.0</y>
+                  </position>
+                  <size>
+                    <height>30.0</height>
+                    <width>100.0</width>
+                  </size>
+                  <numberOfColumns>1</numberOfColumns>
+                  <gutterWidth>3.0</gutterWidth>
+                  <span>none</span>
+                  <leftPadding>0.0</leftPadding>
+                  <rightPadding>0.0</rightPadding>
+                  <topPadding>0.0</topPadding>
+                  <bottomPadding>0.0</bottomPadding>
+                  <hAlign>center</hAlign>
+                  <vAlign>top</vAlign>
+                  <absolute>false</absolute>
+                  <border>
+                    <topBorderWidth>1.0</topBorderWidth>
+                    <leftBorderWidth>1.0</leftBorderWidth>
+                    <rightBorderWidth>1.0</rightBorderWidth>
+                    <bottomBorderWidth>1.0</bottomBorderWidth>
+                    <topBorderStyle>solid</topBorderStyle>
+                    <leftBorderStyle>solid</leftBorderStyle>
+                    <rightBorderStyle>solid</rightBorderStyle>
+                    <bottomBorderStyle>solid</bottomBorderStyle>
+                    <topBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </topBorderColor>
+                    <leftBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </leftBorderColor>
+                    <rightBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </rightBorderColor>
+                    <bottomBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </bottomBorderColor>
+                    <hasLeftBorder>false</hasLeftBorder>
+                    <hasRightBorder>false</hasRightBorder>
+                    <hasTopBorder>false</hasTopBorder>
+                    <hasBottomBorder>false</hasBottomBorder>
+                  </border>
+                  <zAxis>10</zAxis>
+                  <referenceOrientation>0</referenceOrientation>
+                </frame>
+                <fo>
+                  <generateFoContainer>false</generateFoContainer>
+                  <generateFoBlock>false</generateFoBlock>
+                  <evaluatedExpression>Empty</evaluatedExpression>
+                  <useApply>false</useApply>
+                  <normalizeSpace>false</normalizeSpace>
+                  <disableOutputEscaping>false</disableOutputEscaping>
+                  <xslIf></xslIf>
+                  <xslForeach></xslForeach>
+                  <xslForeachSort></xslForeachSort>
+                  <xslForeachSortAscending>true</xslForeachSortAscending>
+                  <xslForeachSortText>true</xslForeachSortText>
+                  <whiteSpaceCollapse>false</whiteSpaceCollapse>
+                  <suppressRedundantInformation>false</suppressRedundantInformation>
+                  <generateTemplate>false</generateTemplate>
+                  <templateName>Template</templateName>
+                  <tableGenerator></tableGenerator>
+                  <templateParamsList/>
+                  <customBlockAttributes/>
+                  <customContainerAttributes/>
+                  <pageBreakBefore>auto</pageBreakBefore>
+                  <pageBreakInside>auto</pageBreakInside>
+                  <pageBreakAfter>auto</pageBreakAfter>
+                  <spaceBefore>0</spaceBefore>
+                  <spaceAfter>0</spaceAfter>
+                  <useSmartVAlign>false</useSmartVAlign>
+                </fo>
+                <readOnly>false</readOnly>
+              </text>
+            </children>
+            <id>TextFlow_16</id>
+            <frame>
+              <position>
+                <x>707.0</x>
+                <y>316.0</y>
+              </position>
+              <size>
+                <height>17.0</height>
+                <width>126.0</width>
+              </size>
+              <numberOfColumns>1</numberOfColumns>
+              <gutterWidth>3.0</gutterWidth>
+              <span>none</span>
+              <leftPadding>0.0</leftPadding>
+              <rightPadding>0.0</rightPadding>
+              <topPadding>0.0</topPadding>
+              <bottomPadding>0.0</bottomPadding>
+              <hAlign>center</hAlign>
+              <vAlign>top</vAlign>
+              <absolute>true</absolute>
+              <border>
+                <topBorderWidth>1.0</topBorderWidth>
+                <leftBorderWidth>1.0</leftBorderWidth>
+                <rightBorderWidth>1.0</rightBorderWidth>
+                <bottomBorderWidth>1.0</bottomBorderWidth>
+                <topBorderStyle>solid</topBorderStyle>
+                <leftBorderStyle>solid</leftBorderStyle>
+                <rightBorderStyle>solid</rightBorderStyle>
+                <bottomBorderStyle>solid</bottomBorderStyle>
+                <topBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </topBorderColor>
+                <leftBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </leftBorderColor>
+                <rightBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </rightBorderColor>
+                <bottomBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </bottomBorderColor>
+                <hasLeftBorder>false</hasLeftBorder>
+                <hasRightBorder>false</hasRightBorder>
+                <hasTopBorder>false</hasTopBorder>
+                <hasBottomBorder>false</hasBottomBorder>
+              </border>
+              <zAxis>10</zAxis>
+              <referenceOrientation>0</referenceOrientation>
+            </frame>
+            <fo>
+              <generateFoContainer>false</generateFoContainer>
+              <generateFoBlock>true</generateFoBlock>
+              <evaluatedExpression>Empty</evaluatedExpression>
+              <useApply>false</useApply>
+              <normalizeSpace>false</normalizeSpace>
+              <disableOutputEscaping>false</disableOutputEscaping>
+              <xslIf></xslIf>
+              <xslForeach></xslForeach>
+              <xslForeachSort></xslForeachSort>
+              <xslForeachSortAscending>true</xslForeachSortAscending>
+              <xslForeachSortText>true</xslForeachSortText>
+              <whiteSpaceCollapse>false</whiteSpaceCollapse>
+              <suppressRedundantInformation>false</suppressRedundantInformation>
+              <generateTemplate>true</generateTemplate>
+              <templateName>rut</templateName>
+              <tableGenerator></tableGenerator>
+              <templateParamsList/>
+              <customBlockAttributes/>
+              <customContainerAttributes/>
+              <pageBreakBefore>auto</pageBreakBefore>
+              <pageBreakInside>auto</pageBreakInside>
+              <pageBreakAfter>auto</pageBreakAfter>
+              <spaceBefore>0</spaceBefore>
+              <spaceAfter>0</spaceAfter>
+              <useSmartVAlign>false</useSmartVAlign>
+            </fo>
+            <readOnly>false</readOnly>
+          </text-flow>
+          <text>
+            <xslCode>true</xslCode>
+            <text>&lt;xsl:choose&gt;
+	&lt;xsl:when test=&quot;string-length(header/customer/rut) != 0&quot;&gt;
+		&lt;xsl:call-template name=&quot;rut&quot;/&gt;
+	&lt;/xsl:when&gt;
+	&lt;xsl:otherwise&gt;
+		&lt;xsl:call-template name=&quot;no-rut-line&quot;/&gt;
+	&lt;/xsl:otherwise&gt;
+&lt;/xsl:choose&gt;
+</text>
+            <textColor>
+              <red>0</red>
+              <green>0</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </textColor>
+            <bkgColor>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </bkgColor>
+            <font>Arial#0#12.0</font>
+            <underline>false</underline>
+            <hasVariableHeight>false</hasVariableHeight>
+            <constantText>false</constantText>
+            <expandToRight>false</expandToRight>
+            <escapeComparisonSigns>false</escapeComparisonSigns>
+            <lineHeightXSLCode>14.5</lineHeightXSLCode>
+            <children/>
+            <id>Text_1</id>
+            <frame>
+              <position>
+                <x>232.0</x>
+                <y>286.0</y>
+              </position>
+              <size>
+                <height>17.0</height>
+                <width>126.0</width>
+              </size>
+              <numberOfColumns>1</numberOfColumns>
+              <gutterWidth>3.0</gutterWidth>
+              <span>none</span>
+              <leftPadding>0.0</leftPadding>
+              <rightPadding>0.0</rightPadding>
+              <topPadding>0.0</topPadding>
+              <bottomPadding>0.0</bottomPadding>
+              <hAlign>left</hAlign>
+              <vAlign>top</vAlign>
+              <absolute>true</absolute>
+              <border>
+                <topBorderWidth>1.0</topBorderWidth>
+                <leftBorderWidth>1.0</leftBorderWidth>
+                <rightBorderWidth>1.0</rightBorderWidth>
+                <bottomBorderWidth>1.0</bottomBorderWidth>
+                <topBorderStyle>solid</topBorderStyle>
+                <leftBorderStyle>solid</leftBorderStyle>
+                <rightBorderStyle>solid</rightBorderStyle>
+                <bottomBorderStyle>solid</bottomBorderStyle>
+                <topBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </topBorderColor>
+                <leftBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </leftBorderColor>
+                <rightBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </rightBorderColor>
+                <bottomBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </bottomBorderColor>
+                <hasLeftBorder>false</hasLeftBorder>
+                <hasRightBorder>false</hasRightBorder>
+                <hasTopBorder>false</hasTopBorder>
+                <hasBottomBorder>false</hasBottomBorder>
+              </border>
+              <zAxis>10</zAxis>
+              <referenceOrientation>0</referenceOrientation>
+            </frame>
+            <fo>
+              <generateFoContainer>true</generateFoContainer>
+              <generateFoBlock>true</generateFoBlock>
+              <evaluatedExpression>Empty</evaluatedExpression>
+              <useApply>false</useApply>
+              <normalizeSpace>false</normalizeSpace>
+              <disableOutputEscaping>false</disableOutputEscaping>
+              <xslIf></xslIf>
+              <xslForeach></xslForeach>
+              <xslForeachSort></xslForeachSort>
+              <xslForeachSortAscending>true</xslForeachSortAscending>
+              <xslForeachSortText>true</xslForeachSortText>
+              <whiteSpaceCollapse>false</whiteSpaceCollapse>
+              <suppressRedundantInformation>false</suppressRedundantInformation>
+              <generateTemplate>false</generateTemplate>
+              <templateName>Template</templateName>
+              <tableGenerator></tableGenerator>
+              <templateParamsList/>
+              <customBlockAttributes/>
+              <customContainerAttributes/>
+              <pageBreakBefore>auto</pageBreakBefore>
+              <pageBreakInside>auto</pageBreakInside>
+              <pageBreakAfter>auto</pageBreakAfter>
+              <spaceBefore>0</spaceBefore>
+              <spaceAfter>0</spaceAfter>
+              <useSmartVAlign>false</useSmartVAlign>
+            </fo>
+            <readOnly>false</readOnly>
+          </text>
+          <text>
+            <xslCode>true</xslCode>
+            <text>  &lt;fo:instream-foreign-object&gt;
+   &lt;svg:svg xmlns:svg=&quot;http://www.w3.org/2000/svg&quot; width = &quot;128.84526pt&quot; height=&quot;17.0pt&quot;&gt;
+    &lt;svg:g style=&quot;stroke:#000000; stroke-width:1.42263&quot;&gt;
+     &lt;svg:line  x1=&quot;1.42263pt&quot; y1=&quot;8.42263pt&quot; x2=&quot;122.42263pt&quot; y2=&quot;8.42263pt&quot; /&gt;
+    &lt;/svg:g&gt;
+   &lt;/svg:svg&gt;
+  &lt;/fo:instream-foreign-object&gt;</text>
+            <textColor>
+              <red>0</red>
+              <green>0</green>
+              <blue>0</blue>
+              <alpha>255</alpha>
+            </textColor>
+            <bkgColor>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </bkgColor>
+            <font>Arial#0#12.0</font>
+            <underline>false</underline>
+            <hasVariableHeight>false</hasVariableHeight>
+            <constantText>false</constantText>
+            <expandToRight>false</expandToRight>
+            <escapeComparisonSigns>false</escapeComparisonSigns>
+            <lineHeightXSLCode>14.5</lineHeightXSLCode>
+            <children/>
+            <id>Text_2</id>
+            <frame>
+              <position>
+                <x>707.0</x>
+                <y>351.0</y>
+              </position>
+              <size>
+                <height>15.0</height>
+                <width>126.0457</width>
+              </size>
+              <numberOfColumns>1</numberOfColumns>
+              <gutterWidth>3.0</gutterWidth>
+              <span>none</span>
+              <leftPadding>0.0</leftPadding>
+              <rightPadding>0.0</rightPadding>
+              <topPadding>0.0</topPadding>
+              <bottomPadding>0.0</bottomPadding>
+              <hAlign>left</hAlign>
+              <vAlign>top</vAlign>
+              <absolute>true</absolute>
+              <border>
+                <topBorderWidth>1.0</topBorderWidth>
+                <leftBorderWidth>1.0</leftBorderWidth>
+                <rightBorderWidth>1.0</rightBorderWidth>
+                <bottomBorderWidth>1.0</bottomBorderWidth>
+                <topBorderStyle>solid</topBorderStyle>
+                <leftBorderStyle>solid</leftBorderStyle>
+                <rightBorderStyle>solid</rightBorderStyle>
+                <bottomBorderStyle>solid</bottomBorderStyle>
+                <topBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </topBorderColor>
+                <leftBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </leftBorderColor>
+                <rightBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </rightBorderColor>
+                <bottomBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </bottomBorderColor>
+                <hasLeftBorder>false</hasLeftBorder>
+                <hasRightBorder>false</hasRightBorder>
+                <hasTopBorder>false</hasTopBorder>
+                <hasBottomBorder>false</hasBottomBorder>
+              </border>
+              <zAxis>10</zAxis>
+              <referenceOrientation>0</referenceOrientation>
+            </frame>
+            <fo>
+              <generateFoContainer>false</generateFoContainer>
+              <generateFoBlock>false</generateFoBlock>
+              <evaluatedExpression>Empty</evaluatedExpression>
+              <useApply>false</useApply>
+              <normalizeSpace>false</normalizeSpace>
+              <disableOutputEscaping>false</disableOutputEscaping>
+              <xslIf></xslIf>
+              <xslForeach></xslForeach>
+              <xslForeachSort></xslForeachSort>
+              <xslForeachSortAscending>true</xslForeachSortAscending>
+              <xslForeachSortText>true</xslForeachSortText>
+              <whiteSpaceCollapse>false</whiteSpaceCollapse>
+              <suppressRedundantInformation>false</suppressRedundantInformation>
+              <generateTemplate>true</generateTemplate>
+              <templateName>no-rut-line</templateName>
+              <tableGenerator></tableGenerator>
+              <templateParamsList/>
+              <customBlockAttributes/>
+              <customContainerAttributes/>
+              <pageBreakBefore>auto</pageBreakBefore>
+              <pageBreakInside>auto</pageBreakInside>
+              <pageBreakAfter>auto</pageBreakAfter>
+              <spaceBefore>0</spaceBefore>
+              <spaceAfter>0</spaceAfter>
+              <useSmartVAlign>false</useSmartVAlign>
+            </fo>
+            <readOnly>false</readOnly>
+          </text>
+          <text-flow>
+            <bkgColor>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </bkgColor>
+            <expandToRight>false</expandToRight>
+            <truncateInRow>false</truncateInRow>
+            <lineHeight>16.8</lineHeight>
+            <children>
+              <text>
+                <xslCode>false</xslCode>
+                <text>X</text>
+                <textColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </textColor>
+                <bkgColor>
+                  <red>255</red>
+                  <green>255</green>
+                  <blue>255</blue>
+                  <alpha>255</alpha>
+                </bkgColor>
+                <font>Arial#1#14.0</font>
+                <underline>false</underline>
+                <hasVariableHeight>false</hasVariableHeight>
+                <constantText>true</constantText>
+                <expandToRight>false</expandToRight>
+                <escapeComparisonSigns>false</escapeComparisonSigns>
+                <lineHeightXSLCode>14.5</lineHeightXSLCode>
+                <children/>
+                <frame>
+                  <position>
+                    <x>0.0</x>
+                    <y>0.0</y>
+                  </position>
+                  <size>
+                    <height>30.0</height>
+                    <width>100.0</width>
+                  </size>
+                  <numberOfColumns>1</numberOfColumns>
+                  <gutterWidth>3.0</gutterWidth>
+                  <span>none</span>
+                  <leftPadding>0.0</leftPadding>
+                  <rightPadding>0.0</rightPadding>
+                  <topPadding>0.0</topPadding>
+                  <bottomPadding>0.0</bottomPadding>
+                  <hAlign>center</hAlign>
+                  <vAlign>top</vAlign>
+                  <absolute>false</absolute>
+                  <border>
+                    <topBorderWidth>1.0</topBorderWidth>
+                    <leftBorderWidth>1.0</leftBorderWidth>
+                    <rightBorderWidth>1.0</rightBorderWidth>
+                    <bottomBorderWidth>1.0</bottomBorderWidth>
+                    <topBorderStyle>solid</topBorderStyle>
+                    <leftBorderStyle>solid</leftBorderStyle>
+                    <rightBorderStyle>solid</rightBorderStyle>
+                    <bottomBorderStyle>solid</bottomBorderStyle>
+                    <topBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </topBorderColor>
+                    <leftBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </leftBorderColor>
+                    <rightBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </rightBorderColor>
+                    <bottomBorderColor>
+                      <red>0</red>
+                      <green>0</green>
+                      <blue>0</blue>
+                      <alpha>255</alpha>
+                    </bottomBorderColor>
+                    <hasLeftBorder>false</hasLeftBorder>
+                    <hasRightBorder>false</hasRightBorder>
+                    <hasTopBorder>false</hasTopBorder>
+                    <hasBottomBorder>false</hasBottomBorder>
+                  </border>
+                  <zAxis>10</zAxis>
+                  <referenceOrientation>0</referenceOrientation>
+                </frame>
+                <fo>
+                  <generateFoContainer>false</generateFoContainer>
+                  <generateFoBlock>false</generateFoBlock>
+                  <evaluatedExpression>Empty</evaluatedExpression>
+                  <useApply>false</useApply>
+                  <normalizeSpace>false</normalizeSpace>
+                  <disableOutputEscaping>false</disableOutputEscaping>
+                  <xslIf></xslIf>
+                  <xslForeach></xslForeach>
+                  <xslForeachSort></xslForeachSort>
+                  <xslForeachSortAscending>true</xslForeachSortAscending>
+                  <xslForeachSortText>true</xslForeachSortText>
+                  <whiteSpaceCollapse>false</whiteSpaceCollapse>
+                  <suppressRedundantInformation>false</suppressRedundantInformation>
+                  <generateTemplate>false</generateTemplate>
+                  <templateName>Template</templateName>
+                  <tableGenerator></tableGenerator>
+                  <templateParamsList/>
+                  <customBlockAttributes/>
+                  <customContainerAttributes/>
+                  <pageBreakBefore>auto</pageBreakBefore>
+                  <pageBreakInside>auto</pageBreakInside>
+                  <pageBreakAfter>auto</pageBreakAfter>
+                  <spaceBefore>0</spaceBefore>
+                  <spaceAfter>0</spaceAfter>
+                  <useSmartVAlign>false</useSmartVAlign>
+                </fo>
+                <readOnly>false</readOnly>
+              </text>
+            </children>
+            <id>TextFlow_17</id>
+            <frame>
+              <position>
+                <x>370.0</x>
+                <y>287.0</y>
+              </position>
+              <size>
+                <height>17.0</height>
+                <width>26.0</width>
+              </size>
+              <numberOfColumns>1</numberOfColumns>
+              <gutterWidth>3.0</gutterWidth>
+              <span>none</span>
+              <leftPadding>0.0</leftPadding>
+              <rightPadding>0.0</rightPadding>
+              <topPadding>0.0</topPadding>
+              <bottomPadding>0.0</bottomPadding>
+              <hAlign>center</hAlign>
+              <vAlign>top</vAlign>
+              <absolute>true</absolute>
+              <border>
+                <topBorderWidth>1.0</topBorderWidth>
+                <leftBorderWidth>1.0</leftBorderWidth>
+                <rightBorderWidth>1.0</rightBorderWidth>
+                <bottomBorderWidth>1.0</bottomBorderWidth>
+                <topBorderStyle>solid</topBorderStyle>
+                <leftBorderStyle>solid</leftBorderStyle>
+                <rightBorderStyle>solid</rightBorderStyle>
+                <bottomBorderStyle>solid</bottomBorderStyle>
+                <topBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </topBorderColor>
+                <leftBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </leftBorderColor>
+                <rightBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </rightBorderColor>
+                <bottomBorderColor>
+                  <red>0</red>
+                  <green>0</green>
+                  <blue>0</blue>
+                  <alpha>255</alpha>
+                </bottomBorderColor>
+                <hasLeftBorder>false</hasLeftBorder>
+                <hasRightBorder>false</hasRightBorder>
+                <hasTopBorder>false</hasTopBorder>
+                <hasBottomBorder>false</hasBottomBorder>
+              </border>
+              <zAxis>10</zAxis>
+              <referenceOrientation>0</referenceOrientation>
+            </frame>
+            <fo>
+              <generateFoContainer>true</generateFoContainer>
+              <generateFoBlock>true</generateFoBlock>
+              <evaluatedExpression>Empty</evaluatedExpression>
+              <useApply>false</useApply>
+              <normalizeSpace>false</normalizeSpace>
+              <disableOutputEscaping>false</disableOutputEscaping>
+              <xslIf>string-length(header/customer/rut)=0</xslIf>
+              <xslForeach></xslForeach>
+              <xslForeachSort></xslForeachSort>
+              <xslForeachSortAscending>true</xslForeachSortAscending>
+              <xslForeachSortText>true</xslForeachSortText>
+              <whiteSpaceCollapse>false</whiteSpaceCollapse>
+              <suppressRedundantInformation>false</suppressRedundantInformation>
+              <generateTemplate>false</generateTemplate>
+              <templateName>Template</templateName>
+              <tableGenerator></tableGenerator>
+              <templateParamsList/>
+              <customBlockAttributes/>
+              <customContainerAttributes/>
+              <pageBreakBefore>auto</pageBreakBefore>
+              <pageBreakInside>auto</pageBreakInside>
+              <pageBreakAfter>auto</pageBreakAfter>
+              <spaceBefore>0</spaceBefore>
+              <spaceAfter>0</spaceAfter>
+              <useSmartVAlign>false</useSmartVAlign>
+            </fo>
+            <readOnly>false</readOnly>
+          </text-flow>
         </children>
         <fo>
           <generateFoContainer>true</generateFoContainer>
