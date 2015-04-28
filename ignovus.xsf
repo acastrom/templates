@@ -2407,7 +2407,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>166.0</y>
+                <y>150.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -2621,7 +2621,7 @@
             <frame>
               <position>
                 <x>469.47047</x>
-                <y>166.0</y>
+                <y>150.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -2835,7 +2835,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>198.0</y>
+                <y>182.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3049,7 +3049,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>228.0</y>
+                <y>212.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3263,7 +3263,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>245.0</y>
+                <y>229.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3477,7 +3477,7 @@
             <frame>
               <position>
                 <x>477.0</x>
-                <y>287.0</y>
+                <y>271.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3691,7 +3691,7 @@
             <frame>
               <position>
                 <x>45.80893</x>
-                <y>268.0</y>
+                <y>252.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -4691,7 +4691,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>294.0</y>
+                <y>278.0</y>
               </position>
               <size>
                 <height>48.0</height>
@@ -5130,7 +5130,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>346.0</y>
+                <y>330.0</y>
               </position>
               <size>
                 <height>36.0</height>
@@ -6019,7 +6019,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>388.0</y>
+                <y>372.0</y>
               </position>
               <size>
                 <height>56.0</height>
@@ -6339,7 +6339,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>635.0</y>
+                            <y>619.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -6667,7 +6667,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>635.0</y>
+                            <y>619.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -6868,7 +6868,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>635.0</y>
+                <y>619.0</y>
               </position>
               <size>
                 <height>23.0</height>
@@ -7188,7 +7188,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>666.0</y>
+                            <y>650.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -7516,7 +7516,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>666.0</y>
+                            <y>650.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -7717,7 +7717,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>666.0</y>
+                <y>650.0</y>
               </position>
               <size>
                 <height>21.0</height>
@@ -8037,7 +8037,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>694.0</y>
+                            <y>678.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -8365,7 +8365,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>694.0</y>
+                            <y>678.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -8566,7 +8566,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>694.0</y>
+                <y>678.0</y>
               </position>
               <size>
                 <height>23.0</height>
@@ -8899,7 +8899,7 @@
                         <frame>
                           <position>
                             <x>504.0</x>
-                            <y>350.0</y>
+                            <y>334.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -9227,7 +9227,7 @@
                         <frame>
                           <position>
                             <x>456.0</x>
-                            <y>350.0</y>
+                            <y>334.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -9555,7 +9555,7 @@
                         <frame>
                           <position>
                             <x>232.0</x>
-                            <y>350.0</y>
+                            <y>334.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -9781,7 +9781,7 @@
             <frame>
               <position>
                 <x>232.0</x>
-                <y>350.0</y>
+                <y>334.0</y>
               </position>
               <size>
                 <height>250.0</height>
@@ -10116,7 +10116,7 @@
             <frame>
               <position>
                 <x>232.0</x>
-                <y>286.0</y>
+                <y>270.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -10449,7 +10449,7 @@
             <frame>
               <position>
                 <x>370.0</x>
-                <y>287.0</y>
+                <y>271.0</y>
               </position>
               <size>
                 <height>17.0</height>
