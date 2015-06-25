@@ -2838,7 +2838,7 @@
                 <y>182.0</y>
               </position>
               <size>
-                <height>17.07165</height>
+                <height>28.45275</height>
                 <width>262.0</width>
               </size>
               <numberOfColumns>1</numberOfColumns>
@@ -3049,11 +3049,11 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>212.0</y>
+                <y>215.0</y>
               </position>
               <size>
-                <height>17.0</height>
-                <width>262.04988</width>
+                <height>14.0</height>
+                <width>262.0</width>
               </size>
               <numberOfColumns>1</numberOfColumns>
               <gutterWidth>3.0</gutterWidth>
@@ -3263,11 +3263,11 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>229.0</y>
+                <y>230.0</y>
               </position>
               <size>
-                <height>17.0</height>
-                <width>262.04988</width>
+                <height>14.0</height>
+                <width>262.0</width>
               </size>
               <numberOfColumns>1</numberOfColumns>
               <gutterWidth>3.0</gutterWidth>
