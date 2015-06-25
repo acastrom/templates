@@ -51,18 +51,18 @@
 <xsl:value-of disable-output-escaping="no" select="header/reference"/>
 </fo:block>
 </fo:block-container>
-<fo:block-container position="absolute" top="182.0pt" left="278.837pt" height="17.0pt" width="113.0pt">
-<fo:block line-height="13.2pt" white-space-collapse="false"  linefeed-treatment="preserve"  text-align="start" position="relative" top="182.0pt" left="278.837pt" height="17.0pt" width="113.0pt" color="#000000" font-family="Arial" font-size="11.0pt" font-weight="bold">
+<fo:block-container position="absolute" top="182.0pt" left="278.837pt" height="17.07165pt" width="262.0pt">
+<fo:block line-height="13.2pt" white-space-collapse="false"  linefeed-treatment="preserve"  text-align="start" position="relative" top="182.0pt" left="278.837pt" height="17.07165pt" width="262.0pt" color="#000000" font-family="Arial" font-size="11.0pt" font-weight="bold">
 <xsl:value-of disable-output-escaping="no" select="header/customer/name"/>
 </fo:block>
 </fo:block-container>
-<fo:block-container position="absolute" top="212.0pt" left="278.837pt" height="17.0pt" width="142.0pt">
-<fo:block line-height="13.2pt" white-space-collapse="false"  linefeed-treatment="preserve"  text-align="start" position="relative" top="212.0pt" left="278.837pt" height="17.0pt" width="142.0pt" color="#000000" font-family="Arial" font-size="11.0pt" font-weight="bold">
+<fo:block-container position="absolute" top="212.0pt" left="278.837pt" height="17.0pt" width="262.04988pt">
+<fo:block line-height="13.2pt" white-space-collapse="false"  linefeed-treatment="preserve"  text-align="start" position="relative" top="212.0pt" left="278.837pt" height="17.0pt" width="262.04988pt" color="#000000" font-family="Arial" font-size="11.0pt" font-weight="bold">
 <xsl:value-of disable-output-escaping="no" select="header/customer/address/street_nr"/>
 </fo:block>
 </fo:block-container>
-<fo:block-container position="absolute" top="229.0pt" left="278.837pt" height="17.0pt" width="142.0pt">
-<fo:block line-height="13.2pt" white-space-collapse="false"  linefeed-treatment="preserve"  text-align="start" position="relative" top="229.0pt" left="278.837pt" height="17.0pt" width="142.0pt" color="#000000" font-family="Arial" font-size="11.0pt" font-weight="bold">
+<fo:block-container position="absolute" top="229.0pt" left="278.837pt" height="17.0pt" width="262.04988pt">
+<fo:block line-height="13.2pt" white-space-collapse="false"  linefeed-treatment="preserve"  text-align="start" position="relative" top="229.0pt" left="278.837pt" height="17.0pt" width="262.04988pt" color="#000000" font-family="Arial" font-size="11.0pt" font-weight="bold">
 <xsl:value-of disable-output-escaping="no" select="header/customer/address/city"/>
 </fo:block>
 </fo:block-container>
@@ -209,6 +209,23 @@
 </fo:table-body>
 </fo:table>
 </fo:block></fo:block-container>
+<fo:block-container  position="absolute" top="650.0pt" left="259.0pt" height="21.0pt" width="83.0pt" >
+<fo:block span="none"><!-- GENERATE TABLE START-->
+<xsl:if test="string-length(footer/vat_per)&gt;0">
+<fo:table table-layout="fixed" start-indent="2.84527pt">
+<fo:table-column column-width="51.21496pt"/>
+<fo:table-body>
+
+<fo:table-row>
+<fo:table-cell display-align="before">
+<fo:block padding-top="5.5pt" line-height="13.2pt" white-space-collapse="false"  linefeed-treatment="preserve"  text-align="end" color="#000000" font-family="Arial" font-size="11.0pt" font-weight="bold">
+<xsl:value-of disable-output-escaping="no" select="footer/vat_per"/>
+</fo:block>
+</fo:table-cell>
+</fo:table-row>
+</fo:table-body>
+</fo:table>
+</xsl:if></fo:block></fo:block-container>
 <fo:block-container  position="absolute" top="650.0pt" left="426.79133pt" height="21.0pt" width="150.0pt" >
 <fo:block span="none"><!-- GENERATE TABLE START-->
 
