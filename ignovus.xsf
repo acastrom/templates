@@ -2407,7 +2407,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>150.0</y>
+                <y>160.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -2621,7 +2621,7 @@
             <frame>
               <position>
                 <x>469.47047</x>
-                <y>150.0</y>
+                <y>160.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -2835,10 +2835,10 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>182.0</y>
+                <y>192.0</y>
               </position>
               <size>
-                <height>28.45275</height>
+                <height>28.0</height>
                 <width>262.0</width>
               </size>
               <numberOfColumns>1</numberOfColumns>
@@ -3049,7 +3049,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>215.0</y>
+                <y>225.0</y>
               </position>
               <size>
                 <height>14.0</height>
@@ -3263,7 +3263,7 @@
             <frame>
               <position>
                 <x>278.837</x>
-                <y>230.0</y>
+                <y>240.0</y>
               </position>
               <size>
                 <height>14.0</height>
@@ -3477,7 +3477,7 @@
             <frame>
               <position>
                 <x>477.0</x>
-                <y>271.0</y>
+                <y>281.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -3691,7 +3691,7 @@
             <frame>
               <position>
                 <x>45.80893</x>
-                <y>252.0</y>
+                <y>262.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -4691,7 +4691,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>278.0</y>
+                <y>288.0</y>
               </position>
               <size>
                 <height>48.0</height>
@@ -5130,7 +5130,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>330.0</y>
+                <y>340.0</y>
               </position>
               <size>
                 <height>36.0</height>
@@ -6019,7 +6019,7 @@
             <frame>
               <position>
                 <x>53.0</x>
-                <y>372.0</y>
+                <y>382.0</y>
               </position>
               <size>
                 <height>56.0</height>
@@ -6339,7 +6339,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>619.0</y>
+                            <y>629.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -6552,7 +6552,7 @@
                         <children>
                           <text>
                             <xslCode>false</xslCode>
-                            <text>{body/item/amount}</text>
+                            <text>{footer/neto}</text>
                             <textColor>
                               <red>0</red>
                               <green>0</green>
@@ -6591,7 +6591,7 @@
                               <bottomPadding>0.0</bottomPadding>
                               <hAlign>right</hAlign>
                               <vAlign>top</vAlign>
-                              <absolute>false</absolute>
+                              <absolute>true</absolute>
                               <border>
                                 <topBorderWidth>1.0</topBorderWidth>
                                 <leftBorderWidth>1.0</leftBorderWidth>
@@ -6634,8 +6634,8 @@
                               <referenceOrientation>0</referenceOrientation>
                             </frame>
                             <fo>
-                              <generateFoContainer>false</generateFoContainer>
-                              <generateFoBlock>false</generateFoBlock>
+                              <generateFoContainer>true</generateFoContainer>
+                              <generateFoBlock>true</generateFoBlock>
                               <evaluatedExpression>Empty</evaluatedExpression>
                               <useApply>false</useApply>
                               <normalizeSpace>false</normalizeSpace>
@@ -6667,7 +6667,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>619.0</y>
+                            <y>629.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -6868,7 +6868,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>619.0</y>
+                <y>629.0</y>
               </position>
               <size>
                 <height>23.0</height>
@@ -7188,7 +7188,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>650.0</y>
+                            <y>660.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -7516,7 +7516,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>650.0</y>
+                            <y>660.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -7717,7 +7717,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>650.0</y>
+                <y>660.0</y>
               </position>
               <size>
                 <height>21.0</height>
@@ -8037,7 +8037,7 @@
                         <frame>
                           <position>
                             <x>506.0</x>
-                            <y>678.0</y>
+                            <y>688.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -8365,7 +8365,7 @@
                         <frame>
                           <position>
                             <x>426.0</x>
-                            <y>678.0</y>
+                            <y>688.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -8566,7 +8566,7 @@
             <frame>
               <position>
                 <x>426.79133</x>
-                <y>678.0</y>
+                <y>688.0</y>
               </position>
               <size>
                 <height>23.0</height>
@@ -8899,7 +8899,7 @@
                         <frame>
                           <position>
                             <x>504.0</x>
-                            <y>334.0</y>
+                            <y>344.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -9227,7 +9227,7 @@
                         <frame>
                           <position>
                             <x>456.0</x>
-                            <y>334.0</y>
+                            <y>344.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -9555,7 +9555,7 @@
                         <frame>
                           <position>
                             <x>232.0</x>
-                            <y>334.0</y>
+                            <y>344.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -9781,7 +9781,7 @@
             <frame>
               <position>
                 <x>232.0</x>
-                <y>334.0</y>
+                <y>344.0</y>
               </position>
               <size>
                 <height>250.0</height>
@@ -10116,7 +10116,7 @@
             <frame>
               <position>
                 <x>232.0</x>
-                <y>270.0</y>
+                <y>280.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -10449,7 +10449,7 @@
             <frame>
               <position>
                 <x>370.0</x>
-                <y>271.0</y>
+                <y>281.0</y>
               </position>
               <size>
                 <height>17.0</height>
@@ -10756,7 +10756,7 @@
                         <frame>
                           <position>
                             <x>259.0</x>
-                            <y>650.0</y>
+                            <y>660.0</y>
                           </position>
                           <size>
                             <height>17.0</height>
@@ -10957,7 +10957,7 @@
             <frame>
               <position>
                 <x>259.0</x>
-                <y>650.0</y>
+                <y>660.0</y>
               </position>
               <size>
                 <height>21.0</height>
